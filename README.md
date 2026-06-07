@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="EWING TECH LAW GROUP fond noir R carre lkd" width="420"/>
+</p>
+
 # Ewing Tech Law Group (ETLG)
 
 ## Building the Future of Accessible Justice Through Artificial Intelligence
