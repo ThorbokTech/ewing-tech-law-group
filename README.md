@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="etlg-logo.png.jpg" alt="ETLG Logo" width="180"/>
+  <img src="etlg-logo.png.jpg" alt="ETLG Logo" width="160"/>
   <img src="thorbok-tech-logo.jpg" alt="Thorbok Tech Logo" width="160"/>
   <img src="mec-logo.jpg" alt="Mason Ewing Corporation Logo" width="160"/>
 </p>
