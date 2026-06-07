@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./etlg-logo.jpg" width="420"/>
+  <img src="./etlg-logo.png" width="420"/>
 </p>
 
 # Ewing Tech Law Group (ETLG)
