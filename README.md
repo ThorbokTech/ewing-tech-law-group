@@ -56,7 +56,7 @@ The project combines human legal expertise, intelligent assistance systems, acce
 
 ### Zenodo DOI
 
-Add Zenodo DOI here.
+https://doi.org/10.5281/zenodo.20583816
 
 ### OSF DOI
 
